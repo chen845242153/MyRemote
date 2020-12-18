@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My RemoteService</string>
+    <!--    <string name="client_id">"d92346dd85d24334b2dc551fe2f2618e"</string>-->
+    <!--    <string name="redirect_uri">"http://localhost:8888/callback"</string>-->
+
+    <string name="client_id">"0df5063a167149578477f36edbc81d0f"</string>
+    <string name="redirect_uri">"http://localhost:8888/callback/"</string>
+
+</resources>
